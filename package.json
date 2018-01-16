@@ -1,0 +1,17 @@
+{
+    "name": "react-native-althea-adyen-encrypt",
+    "version": "1.0.0",
+    "description": "React native module for Adyen CSE",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native"
+    ],
+    "author": "alvin@althea.kr",
+    "license": "MIT",
+    "peerDependencies": {
+        "react-native": "^0.41.1"
+    }
+}
