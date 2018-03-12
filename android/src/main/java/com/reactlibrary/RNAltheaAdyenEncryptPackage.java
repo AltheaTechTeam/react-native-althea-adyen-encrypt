@@ -18,7 +18,7 @@ public class RNAltheaAdyenEncryptPackage implements ReactPackage {
         return Arrays.<NativeModule>asList(new RNAltheaAdyenEncryptModule(reactContext));
     }
 
-    @Override
+    // Deprecated in RN 0.47.0
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
